@@ -21,8 +21,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/gagliardetto/solana-go"
-	"github.com/gagliardetto/solana-go/rpc"
+	"github.com/sina-haseli/solana-go"
+	"github.com/sina-haseli/solana-go/rpc"
 )
 
 func GetTokenRegistryEntry(ctx context.Context, rpcCli *rpc.Client, mintAddress solana.PublicKey) (*TokenMeta, error) {

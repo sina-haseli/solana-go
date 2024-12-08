@@ -19,9 +19,9 @@ import (
 	"fmt"
 	"github.com/davecgh/go-spew/spew"
 	ag_binary "github.com/gagliardetto/binary"
-	ag_solanago "github.com/gagliardetto/solana-go"
-	ag_text "github.com/gagliardetto/solana-go/text"
 	"github.com/gagliardetto/treeout"
+	ag_solanago "github.com/sina-haseli/solana-go"
+	ag_text "github.com/sina-haseli/solana-go/text"
 )
 
 var ProgramID = ag_solanago.MemoProgramID

@@ -23,10 +23,10 @@ import (
 	"os"
 
 	bin "github.com/gagliardetto/binary"
-	"github.com/gagliardetto/solana-go"
-	"github.com/gagliardetto/solana-go/programs/token"
-	"github.com/gagliardetto/solana-go/rpc"
-	"github.com/gagliardetto/solana-go/text"
+	"github.com/sina-haseli/solana-go"
+	"github.com/sina-haseli/solana-go/programs/token"
+	"github.com/sina-haseli/solana-go/rpc"
+	"github.com/sina-haseli/solana-go/text"
 	"github.com/spf13/cobra"
 )
 
