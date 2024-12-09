@@ -6,8 +6,8 @@ import (
 	"math"
 
 	bin "github.com/gagliardetto/binary"
-	"github.com/sina-haseli/solana-go"
-	"github.com/sina-haseli/solana-go/rpc"
+	"github.com/gagliardetto/solana-go"
+	"github.com/gagliardetto/solana-go/rpc"
 )
 
 // The serialized size of lookup table metadata.

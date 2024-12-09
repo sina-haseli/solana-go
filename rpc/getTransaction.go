@@ -19,7 +19,7 @@ import (
 	"fmt"
 
 	bin "github.com/gagliardetto/binary"
-	"github.com/sina-haseli/solana-go"
+	"github.com/gagliardetto/solana-go"
 )
 
 type GetTransactionOpts struct {

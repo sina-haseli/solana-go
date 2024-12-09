@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	bin "github.com/gagliardetto/binary"
-	"github.com/sina-haseli/solana-go"
+	"github.com/gagliardetto/solana-go"
 	"github.com/stretchr/testify/require"
 )
 

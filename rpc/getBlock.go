@@ -18,7 +18,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/sina-haseli/solana-go"
+	"github.com/gagliardetto/solana-go"
 )
 
 type TransactionDetailsType string

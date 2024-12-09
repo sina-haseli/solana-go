@@ -18,7 +18,7 @@ import (
 	"context"
 	"errors"
 
-	"github.com/sina-haseli/solana-go"
+	"github.com/gagliardetto/solana-go"
 )
 
 type GetTokenAccountsConfig struct {
